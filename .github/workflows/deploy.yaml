@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Run script
-        run: node syncBigQueryToFirestore.js
+        run: node final.js
